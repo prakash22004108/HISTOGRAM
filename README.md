@@ -25,8 +25,8 @@ Visualize results by plotting histograms and displaying original and equalized i
 
 ## Program:
 ```
-Developed By: Mourise jane
-Register Number: 212222230085
+Developed By: prakash 
+Register Number: 212222240074
 ```
 
 
